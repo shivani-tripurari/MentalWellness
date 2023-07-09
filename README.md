@@ -35,3 +35,12 @@ Javascript, HTML, CSS...
 
 https://github.com/shivani-tripurari/InnerBalance/assets/96899982/a84d88e7-799d-42fa-be1d-f558dca32feb
 
+
+
+## 📚Low-fi wireframing and Research
+Here is the low-fi wireframing, I usually use a pencil and a journal for my wireframing!
+![WhatsApp Image 2023-07-09 at 8 03 04 PM](https://github.com/shivani-tripurari/InnerBalance/assets/96899982/d908871c-c10e-43d7-8d83-caa54b1cb93e)
+
+Some of my notes while building this project 
+![WhatsApp Image 2023-07-09 at 8 03 52 PM](https://github.com/shivani-tripurari/InnerBalance/assets/96899982/e243b53a-1444-4c37-a7f5-7fb6c1f8cb11)
+
