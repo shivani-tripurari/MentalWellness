@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Yeseva+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lexend+Zetta&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&display=swap');
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Lexend Zetta', sans-serif;
+    
+}
+html, body {
+    height: 100%;
+    width: 100%;
+    color: white;
+}
+
+body {
+    background-color: #000;
+}
+
+.main {
+    height: 100vh;
+    width: 100%;
+}
+.title{
+    font-family: 'Lexend Zetta', sans-serif;
+    font-size: 15px;
+    color: white;
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 10px;
+}
+.links{
+    font-family: 'Lexend Zetta', sans-serif;
+    font-size: 15px;
+    color: white;
+    text-align: center;
+    padding-top: 60px;
+    padding-bottom: 10px;
+}
+.points{
+    position: relative;
+    padding-top: 40px;
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    overflow: hidden;
+}
+.pictures {
+    border-radius: 50%;
+    overflow: hidden;
+    height: 100px;
+    width: 100px;
+    background-color: white;
+    
+    
+}
+.pictures img{
+    height: 100%;
+    width: 100%;
+}
+
+.text {
+    text-align: justify;
+    line-height: 24px;
+    color: white;
+    font-size: 10px;
+    font-family: 'Josefin Sans', sans-serif;
+    padding: 0 20px 0 0;
+}
+
+h3 a {
+    text-decoration: none;
+    color: white;
+    font-size: 10px;
+    font-family: 'Josefin Sans', sans-serif;
+    padding: 0 20px 0 0;
+    
+}
+

@@ -1,0 +1,111 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Yeseva+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lexend+Zetta&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&display=swap');
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Lexend Zetta', sans-serif;
+    
+}
+html, body {
+    height: 100%;
+    width: 100%;
+    background-color: black;
+}
+#index {
+    height: 100%;
+    width: 100%;
+    padding: 40px 50px;
+    
+}
+
+
+h1  {
+    text-align: center;
+    margin-bottom: 70px;
+    margin-left: 130px;
+    color: white;
+}
+h3 {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    color: white;
+}
+
+.options {  
+    display: block;  
+    position: relative;  
+    padding-left: 40px;  
+    margin-bottom: 20px;  
+    cursor: pointer;  
+    font-size: 15px;
+    font-family: 'Josefin Sans', sans-serif;  
+    color: white;
+  }  
+    
+  
+  .options input {  
+    position: absolute;  
+    opacity: 0;  
+    cursor: pointer;  
+  }  
+    
+  /* custom radio button */  
+  .check {  
+    position: absolute;  
+    top: 0;  
+    left: 0;  
+    height: 16px;  
+    width: 16px;  
+    background-color: lightgray;  
+    border-radius: 50%;  
+  }  
+    
+  .options:hover input ~ .check {  
+    background-color: gray;  
+  }  
+    
+  .options input:checked ~ .check {  
+    background-color: #FFE601;  
+  }  
+    
+  .check:after {  
+    content: "";  
+    position: absolute;  
+    display: none;  
+  }  
+    
+  .options input:checked ~ .check:after {  
+    display: block;  
+  }  
+    
+  .options .check:after {  
+      top: 4px;  
+      left: 4px;  
+      width: 8px;  
+      height: 8px;  
+      border-radius: 50%;  
+      background: white;  
+  } 
+
+  .result {
+    text-align: center;
+    margin-bottom: 100px;
+    
+  }
+  .result h2 {
+    text-align: center;
+    margin-bottom: 70px;
+    margin-left: 130px;
+    color: white;
+
+  }
+  .result p {
+    color: white;
+    margin-bottom: 40px;
+    margin-left: 130px;
+  }
