@@ -1,4 +1,4 @@
-## 🚀 About the Projet
+## 🚀 About the Project
 Welcome to InnerBalane 🌿 , your trusted resource for mental health support and information. Join us on your journey to better mental well-being.
 
 ## 🛠 Tech-stack
