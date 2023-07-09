@@ -24,7 +24,14 @@ Javascript, HTML, CSS...
 ## Features
 
 - Responsive
+
 - Interactive cursor
 - Fullscreen mode
 - Subtle animations
+
+
+
+
+
+https://github.com/shivani-tripurari/InnerBalance/assets/96899982/a84d88e7-799d-42fa-be1d-f558dca32feb
 
